@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArtemisSetting>
+  <RemoteIP>http://www.rahmetdamlalari.org</RemoteIP>
+  <UpdateLocation>/Artemis/Update/</UpdateLocation>
+  <UpdateList>/Artemis/updatelist.xml</UpdateList>
+</ArtemisSetting>
